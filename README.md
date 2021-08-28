@@ -1,3 +1,5 @@
+![alt text]https://ibb.co/5sjDXC6
+
 # Covid Invasion
 
 Covid invasion is a clone of Alien Invasion arcade game.
